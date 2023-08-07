@@ -1,2 +1,2 @@
-# RoleManager
-Authentication &amp; Authorization with Asp.Net MVC
+# Role Manager
+Authentication &amp; Authorization with Asp.Net MVC using Identity
